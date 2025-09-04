@@ -131,7 +131,4 @@ Export Data: Use the "Export to PDF" feature to download a report of your financ
 
 
 
-📞 Contact
-Your Name - @your_twitter - your.email@example.com
 
-Project Link: https://github.com/your-username/budgetwise-app
