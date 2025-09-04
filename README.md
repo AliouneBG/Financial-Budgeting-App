@@ -1,14 +1,10 @@
 Financial Budgeting App
-https://img.shields.io/badge/license-MIT-blue.svg
-https://img.shields.io/badge/Node.js-16.x-green.svg
-https://img.shields.io/badge/React-18.x-61dafb.svg
-https://img.shields.io/badge/PostgreSQL-14.x-336791.svg
+
 
 This is a full-stack web application designed to give you complete control over your personal finances. With an intuitive interface and powerful analytics, it helps you track income, manage expenses, set budgets, and achieve your savings goals.
 
 🔒 Secure Authentication | 📊 Interactive Charts | 📱 Responsive Design | 📄 Export to PDF
 
-https://via.placeholder.com/800x400.png?text=BudgetWise+Dashboard+Screenshot // Replace with an actual screenshot of your dashboard
 
 ✨ Features
 📈 Dashboard & Overview
